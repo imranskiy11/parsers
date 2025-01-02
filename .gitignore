@@ -1,0 +1,6 @@
+__pycache__/
+src/playmarket/tmp
+src/playmarket/data/*
+src/playmarket/src/reviews.log
+src/playmarket/tmp/
+/parsers_env/
